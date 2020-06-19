@@ -3,7 +3,7 @@
 - Data has been imported from Kaggle
 - Code was excuted using Kernel from Kaggle
 - Dataset has 24058263 rows and  2 columns
---
+---
 ## Data Processing
 - Data with only first 2 columns were imported.
 - The number of movies present were 4499.
@@ -13,7 +13,7 @@
 - The above graph displays the rating percentage of each ratings.
 - Data has been updated as Movie_id, by adding the Movie_id as the new column.
 ![](Image/Screenshot%20from%202020-06-19%2018-17-48.png)
-
+---
 ## Data Cleaning
 - We are keeing the movies that has been **reviewed a minimum of 1799 times.**
 - We have kept only those customers who have **reviewed a minimum of 52 times**
@@ -26,7 +26,7 @@
 
 ## Prediction
 - We finally predict the movies that should be recommended to the users and estimate the rating that might be given by the user.
-![](https://github.com/Lokeshrathi/Netflix_movie_recommendation/blob/master/Image/Screenshot%20from%202020-06-19%2018-32-01.png)
+![](Image/Screenshot%20from%202020-06-19%2018-32-01.png)
 
 
 
