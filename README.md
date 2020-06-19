@@ -6,7 +6,7 @@
 ---
 ## Data
 - Data has been imported from Kaggle
-- Code was excuted using Kernel from Kaggle
+- Code was excuted using [Kernel from Kaggle](https://www.kaggle.com/lokeshrth4617/netflix-movies-recommendation-1)
 - Dataset has 24058263 rows and  2 columns
 ---
 ## Data Processing
