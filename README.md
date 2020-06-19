@@ -1,7 +1,8 @@
 # Netflix_Movie_Recommendation
 
 ## Inspiration:
-- This notebook provides companies(like Netflix, Amazon) to recomment movies to its users where he/she can provide a rating of 5.0
+- This notebook provides companies(like Netflix, Amazon) to recommend **Movies** to its users where he/she will be most interested in and is likely to provide better Ratings. This is computed based on the previous reviews provided by the user.
+
 ---
 ## Data
 - Data has been imported from Kaggle
