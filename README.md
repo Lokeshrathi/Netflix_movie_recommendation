@@ -12,7 +12,7 @@
 ![](https://github.com/Lokeshrathi/Netflix_movie_recommendation/blob/master/Image/rating.png)
 - The above graph displays the rating percentage of each ratings.
 - Data has been updated as Movie_id, by adding the Movie_id as the new column.
-![](https://github.com/Lokeshrathi/Netflix_movie_recommendation/blob/master/Image/Screenshot%20from%202020-06-19%2018-17-48.png)
+![](Image/Screenshot%20from%202020-06-19%2018-17-48.png)
 
 ## Data Cleaning
 - We are keeing the movies that has been **reviewed a minimum of 1799 times.**
@@ -21,7 +21,7 @@
 
 ## Machine Learning Algorithm
 - SVD was applied on the dataset.
-![](https://github.com/Lokeshrathi/Netflix_movie_recommendation/blob/master/Image/Screenshot%20from%202020-06-19%2018-26-38.png)
+![](Image/Screenshot%20from%202020-06-19%2018-26-38.png)
 - We find the prediction for the user_id = 712664 and has given a rating of 5, we merge the movies dataframe to diplay only the movie_id and the name of the movie.
 
 ## Prediction
