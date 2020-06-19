@@ -10,7 +10,7 @@
 - Number of customer 470758
 - Number of ratings given were 24053764
 
-![](/Image/rating.png)
+![](https://github.com/Lokeshrathi/Netflix_movie_recommendation/blob/master/Image/ratings1.png)
 
 - The above graph displays the rating percentage of each ratings.
 - Data has been updated as Movie_id, by adding the Movie_id as the new column.
