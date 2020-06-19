@@ -1,5 +1,9 @@
 # Netflix_Movie_Recommendation
 
+## Inspiration:
+- This notebook provides companies(like Netflix, Amazon) to recomment movies to its users where he/she can provide a rating of 5.0
+---
+## Data
 - Data has been imported from Kaggle
 - Code was excuted using Kernel from Kaggle
 - Dataset has 24058263 rows and  2 columns
