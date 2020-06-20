@@ -7,7 +7,7 @@
 ## Data
 - Data has been imported from Kaggle
 - Code was excuted using [Kernel from Kaggle](https://www.kaggle.com/lokeshrth4617/netflix-movies-recommendation-1)
-- Dataset has 24058263 rows and  2 columns
+- Dataset has 24M+ rows and  2 columns
 ---
 ## Data Processing
 - Data with only first 2 columns were imported.
@@ -25,7 +25,7 @@
 ## Data Cleaning
 - We are keeing the movies that has been **reviewed a minimum of 1799 times.**
 - We have kept only those customers who have **reviewed a minimum of 52 times**
-- Data Size after trmming: **(17337458, 3)**
+- Data Size after trmming: **(17337458, 3)** 
 
 ## Machine Learning Algorithm
 - SVD was applied on the dataset.
